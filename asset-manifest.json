@@ -6,8 +6,8 @@
     "main.css": "/portfolio-pet-project-5-react/static/css/main.0f3c821a.chunk.css",
     "main.js": "/portfolio-pet-project-5-react/static/js/main.9d66ac4c.chunk.js",
     "main.js.map": "/portfolio-pet-project-5-react/static/js/main.9d66ac4c.chunk.js.map",
-    "runtime-main.js": "/portfolio-pet-project-5-react/static/js/runtime-main.22659899.js",
-    "runtime-main.js.map": "/portfolio-pet-project-5-react/static/js/runtime-main.22659899.js.map",
+    "runtime-main.js": "/portfolio-pet-project-5-react/static/js/runtime-main.8f901436.js",
+    "runtime-main.js.map": "/portfolio-pet-project-5-react/static/js/runtime-main.8f901436.js.map",
     "static/js/3.453bb340.chunk.js": "/portfolio-pet-project-5-react/static/js/3.453bb340.chunk.js",
     "static/js/3.453bb340.chunk.js.map": "/portfolio-pet-project-5-react/static/js/3.453bb340.chunk.js.map",
     "static/css/4.e8f135be.chunk.css": "/portfolio-pet-project-5-react/static/css/4.e8f135be.chunk.css",
@@ -21,8 +21,8 @@
     "static/css/7.1efd6594.chunk.css": "/portfolio-pet-project-5-react/static/css/7.1efd6594.chunk.css",
     "static/js/7.2a7b0213.chunk.js": "/portfolio-pet-project-5-react/static/js/7.2a7b0213.chunk.js",
     "static/js/7.2a7b0213.chunk.js.map": "/portfolio-pet-project-5-react/static/js/7.2a7b0213.chunk.js.map",
-    "static/js/8.82a7d24f.chunk.js": "/portfolio-pet-project-5-react/static/js/8.82a7d24f.chunk.js",
-    "static/js/8.82a7d24f.chunk.js.map": "/portfolio-pet-project-5-react/static/js/8.82a7d24f.chunk.js.map",
+    "static/js/8.6aa995a6.chunk.js": "/portfolio-pet-project-5-react/static/js/8.6aa995a6.chunk.js",
+    "static/js/8.6aa995a6.chunk.js.map": "/portfolio-pet-project-5-react/static/js/8.6aa995a6.chunk.js.map",
     "index.html": "/portfolio-pet-project-5-react/index.html",
     "static/css/0.e5eeb933.chunk.css.map": "/portfolio-pet-project-5-react/static/css/0.e5eeb933.chunk.css.map",
     "static/css/4.e8f135be.chunk.css.map": "/portfolio-pet-project-5-react/static/css/4.e8f135be.chunk.css.map",
@@ -37,7 +37,7 @@
     "static/media/vision.067d4ae1.png": "/portfolio-pet-project-5-react/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.22659899.js",
+    "static/js/runtime-main.8f901436.js",
     "static/js/3.453bb340.chunk.js",
     "static/css/main.0f3c821a.chunk.css",
     "static/js/main.9d66ac4c.chunk.js"
